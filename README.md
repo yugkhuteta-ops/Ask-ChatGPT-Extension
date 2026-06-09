@@ -210,9 +210,8 @@ I mainly know C and Python, so this extension was a practical way to learn brows
 
 Add a GIF here:
 
-```markdown
+
 ![Demo](assets/demo.gif)
-```
 
 ---
 
