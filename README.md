@@ -15,7 +15,7 @@ Select Text → Click "Ask ChatGPT" → Get AI Assistance
 
 ### Prompt Auto Send
 
-![Autosend](assets-autosend.png)
+![Autosend](assets/assets-autosend.png)
 
 ---
 
